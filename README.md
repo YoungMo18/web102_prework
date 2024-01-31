@@ -38,7 +38,7 @@ GIF created with Loom (Kap GIF wasn't working, so I recorded with Loom)
 
 ## Notes
 
-Occasionally took a while to understand and implement concepts from the lesson.
+Occasionally took a while to understand and implement concepts from the lesson. The most difficult part was recording with Kap because it wasn't working, so I had to use Loom instead.
 
 ## License
 
