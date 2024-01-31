@@ -30,7 +30,7 @@ Here's a walkthrough of implemented features:
 https://www.loom.com/share/a4776ec3af3e442a85061b3a0de51dca?sid=f51c01e6-b462-4f90-916a-ed5c6b5c2331.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom (Kap GIF wasn't working, so I recorded with Loom)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
